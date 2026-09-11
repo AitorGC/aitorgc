@@ -25,7 +25,7 @@ Soy Analista de Sistemas y Administrador de Redes. Mi trabajo se centra en la au
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de mis repositorios](https://github-readme-stats.vercel.app/api?username=aitorgc&show_icons=true&theme=transparent&hide_border=true&title_color=E3B341)
+- [Estadísticas de mis repositorios](https://github-readme-stats.vercel.app/api?username=aitorgc&show_icons=true&theme=transparent&hide_border=true&title_color=E3B341)
 
 ## 📫 Contacto
 - [LinkedIn](https://linkedin.com/aitorsantana)
